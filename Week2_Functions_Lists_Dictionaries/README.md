@@ -29,8 +29,5 @@ Practice file to learn how lists and dictionaries work.
 
 ---
 
-## Tip
-Ask ChatGPT:
-👉 *“How do I create a list of student names and marks in Python?”*  
-Or use Blackbox AI to autocomplete as you type.
+
 
